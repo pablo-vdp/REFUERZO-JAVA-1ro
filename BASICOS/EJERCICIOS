@@ -1,0 +1,17 @@
+EJ 2 (VIERNES 23:59)
+    Versión 2 del ejercicio Acceso al Sistema. (do while)
+
+El programa vuelve a preguntar por las credenciales si el usuario ha fallado, hasta que acierta.
+
+EJ3 (VIERNES 23:59) 
+    Versión 3 del ejercicio Acceso al Sistema. (for)
+
+El programa vuelve a preguntar por las credenciales si el usuario ha fallado, hasta que acierta. 
+Como mucho tiene un máximo de 3 intentos.
+
+EJ4 (VIERNES 23:59) 
+    Versión 4 (excepciones)
+Utilizando excepciones, programa la primera versión del ejercicio de Acceso al Sistema.
+
+Escribe un programa en Java que pida un nombre de usuario y una contraseña por teclado. Si se introduce “pepe” como usuario y “1234”  como contraseña, 
+indicar “Has entrado al sistema”, sino "Entrada fallida".
